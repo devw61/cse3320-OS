@@ -187,7 +187,7 @@ void exec_cmd(char *cmd, char *args[], int ord_i, int ird_i) {
     if (ord_i != -1) redirect(args, ord_i); // output redirect
     if (ird_i != -1) redirect(args, ird_i); // input redirect
 
-    int res = execvp(cmd, args);
+    execvp(cmd, args);
 
     exit(1); // if cmd not found exec didn't run
   } else {
