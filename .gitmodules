@@ -1,12 +1,3 @@
-[submodule "Runway-Assignment"]
-	path = Runway-Assignment
-	url = https://github.com/CSE3320-Fall-2025/Runway-Assignment.git
-[submodule "NES-Disassembler"]
-	path = NES-Disassembler
-	url = https://github.com/CSE3320-Fall2025-Honors/NES-disassembler-devw61.git
 [submodule "NES_Disassembler"]
 	path = NES_Disassembler
 	url = https://github.com/CSE3320-Fall2025-Honors/NES-disassembler-devw61.git
-[submodule "Concurrency"]
-	path = Concurrency
-	url = https://github.com/CSE3320-Fall-2025/concurrency-devw61.git
