@@ -1,0 +1,3 @@
+[submodule "NES_disassembler"]
+	path = NES_disassembler
+	url = https://github.com/CSE3320-Fall2025-Honors/NES-disassembler-devw61.git
