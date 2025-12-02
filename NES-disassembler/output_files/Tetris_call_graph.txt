@@ -1,0 +1,5012 @@
+Subroutine at $82AC calls:
+
+Subroutine at $BC80 calls:
+	$6262
+	$2E4D
+	$2E4D
+	$62A0
+	$A081
+
+Subroutine at $9580 calls:
+	$2597
+	$2597
+	$1297
+	$E395
+	$1297
+	$1297
+	$1297
+	$0898
+	$1297
+	$1297
+	$1297
+	$1297
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $9B81 calls:
+	$FE9B
+	$FE9B
+	$D09B
+
+Subroutine at $82AC calls:
+
+Subroutine at $B281 calls:
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+
+Subroutine at $AE87 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $CE8B calls:
+	$8020
+	$A020
+	$C020
+	$E020
+	$7677
+	$2076
+	$7677
+
+Subroutine at $9287 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $D981 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $C887 calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $AE89 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AB88 calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $AE89 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AB88 calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $8D82 calls:
+	$FF08
+	$10BD
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $AE84 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D084 calls:
+
+Subroutine at $EE84 calls:
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $9386 calls:
+	$0800
+	$08FF
+
+Subroutine at $9386 calls:
+	$0800
+	$08FF
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $DC87 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $FC87 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $ED88 calls:
+	$B84C
+	$4CB4
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $ED88 calls:
+	$B84C
+	$4CB4
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $AF9C calls:
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D789 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $8B94 calls:
+
+Subroutine at $8B94 calls:
+
+Subroutine at $938A calls:
+	$0800
+	$08FF
+
+Subroutine at $8D31 calls:
+	$FF08
+	$10BD
+
+Subroutine at $8F55 calls:
+	$FF08
+	$10BD
+
+Subroutine at $FF08 calls:
+	$10FB
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $D039 calls:
+	$7677
+	$2076
+	$7677
+
+Subroutine at $D03E calls:
+	$2076
+	$7677
+
+Subroutine at $E05D calls:
+
+Subroutine at $F07D calls:
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8C95 calls:
+	$8F55
+	$0000
+	$0808
+	$0008
+	$08FF
+	$FF08
+	$10BD
+
+Subroutine at $E395 calls:
+	$87E2
+	$B5E0
+
+Subroutine at $E620 calls:
+	$71E6
+
+Subroutine at $C8CA calls:
+	$6262
+	$2072
+	$F348
+	$0020
+	$2020
+	$4020
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+	$BEBF
+	$20AE
+	$AEAF
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $BD97 calls:
+	$8272
+
+Subroutine at $BD97 calls:
+	$8272
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $EA98 calls:
+	$001E
+	$1B18
+
+Subroutine at $E698 calls:
+	$47E2
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $8B94 calls:
+
+Subroutine at $AF9C calls:
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D29A calls:
+	$4020
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $D09B calls:
+
+Subroutine at $EEA0 calls:
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $9DAB calls:
+
+Subroutine at $9DAB calls:
+
+Subroutine at $9A9D calls:
+	$D29A
+
+Subroutine at $E89D calls:
+	$7EE8
+	$66E7
+	$D0E5
+	$4DE8
+	$DCE9
+	$B2E9
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$3DE9
+	$4DE8
+	$A3E9
+	$13E9
+	$03EA
+	$EBE9
+	$A3E9
+
+Subroutine at $E89D calls:
+	$7EE8
+	$66E7
+	$D0E5
+	$4DE8
+	$DCE9
+	$B2E9
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$3DE9
+	$4DE8
+	$A3E9
+	$13E9
+	$03EA
+	$EBE9
+	$A3E9
+
+Subroutine at $9E9D calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$079E
+	$FDA7
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$27A5
+	$2FAA
+
+Subroutine at $9DAB calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $A49E calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $85A0 calls:
+	$278C
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FAA0 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $92A1 calls:
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $C1A1 calls:
+	$713B
+
+Subroutine at $E0A1 calls:
+
+Subroutine at $92A1 calls:
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $C1A1 calls:
+	$713B
+
+Subroutine at $E0A1 calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $8D06 calls:
+	$0000
+	$0808
+	$0008
+	$08FF
+	$FF08
+	$10BD
+
+Subroutine at $A96D calls:
+
+Subroutine at $F29F calls:
+	$4256
+	$4202
+	$4202
+	$3E50
+	$3E48
+	$4256
+	$4202
+	$42B1
+	$4202
+	$5056
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $C4A3 calls:
+
+Subroutine at $B1A4 calls:
+	$0020
+	$2080
+
+Subroutine at $82AC calls:
+
+Subroutine at $B1A9 calls:
+	$0020
+	$2080
+
+Subroutine at $82AC calls:
+
+Subroutine at $83A5 calls:
+	$278C
+	$278C
+	$2FAA
+	$0B83
+	$A3AC
+	$03E0
+	$52AA
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $BCA6 calls:
+	$62A0
+	$A081
+
+Subroutine at $90A6 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $AEA6 calls:
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEA6 calls:
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $F001 calls:
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8AAA calls:
+
+Subroutine at $F2AA calls:
+	$4256
+	$4202
+	$4202
+	$3E50
+	$3E48
+	$4256
+	$4202
+	$42B1
+	$4202
+	$5056
+
+Subroutine at $CAD0 calls:
+	$20AE
+	$AEAF
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $9081 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $9073 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $82A0 calls:
+
+Subroutine at $8162 calls:
+	$7687
+	$B281
+	$0A8A
+	$AE87
+	$CE8B
+
+Subroutine at $9172 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $8282 calls:
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $82A0 calls:
+
+Subroutine at $8091 calls:
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $A083 calls:
+	$2122
+	$FAA0
+
+Subroutine at $A081 calls:
+	$0CA0
+
+Subroutine at $8272 calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8290 calls:
+	$8D82
+
+Subroutine at $AAAA calls:
+	$CAD0
+
+Subroutine at $8772 calls:
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $813B calls:
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $873D calls:
+	$EB98
+	$6999
+	$47AB
+	$EB98
+	$2FAA
+	$DC87
+	$079E
+
+Subroutine at $8262 calls:
+	$B7AC
+	$CBAC
+	$98AA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $E020 calls:
+
+Subroutine at $8382 calls:
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8390 calls:
+	$278C
+	$278C
+	$2FAA
+	$0B83
+	$A3AC
+	$03E0
+	$52AA
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8181 calls:
+
+Subroutine at $8272 calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $F348 calls:
+	$B234
+	$424C
+	$42B5
+	$424C
+	$424C
+	$B548
+	$483E
+	$424C
+	$02B2
+	$4C4C
+	$B24C
+	$B14C
+	$B002
+	$5052
+	$B24C
+	$B84C
+	$4CBB
+	$B202
+	$4A48
+	$50B8
+	$464A
+	$4CB1
+	$4640
+	$B038
+	$B120
+	$B120
+	$02B1
+	$38FF
+	$B038
+	$9FA0
+	$F930
+	$B156
+	$5456
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $BEBF calls:
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $9697 calls:
+	$A000
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $D8E1 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $8EE0 calls:
+	$FF08
+	$10BD
+
+Subroutine at $E200 calls:
+	$4BE0
+
+Subroutine at $94E1 calls:
+
+Subroutine at $B9E1 calls:
+	$2082
+
+Subroutine at $9CE1 calls:
+
+Subroutine at $ACE1 calls:
+
+Subroutine at $83E5 calls:
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $D3E2 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $E9E2 calls:
+	$EBE9
+	$A3E9
+
+Subroutine at $D7E2 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $ACE4 calls:
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $D7E6 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $FFE7 calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $F8E8 calls:
+	$5456
+
+Subroutine at $D0E5 calls:
+	$6D6E
+	$7677
+	$2076
+	$7677
+
+Subroutine at $DCE9 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $B2E9 calls:
+	$C020
+	$E020
+
+Subroutine at $A3E9 calls:
+
+Subroutine at $EBE9 calls:
+	$1B18
+
+Subroutine at $A3E9 calls:
+
+Subroutine at $B254 calls:
+	$4020
+
+Subroutine at $B84C calls:
+
+Subroutine at $9F0D calls:
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$27A5
+	$2FAA
+
+Subroutine at $B14A calls:
+
+Subroutine at $B14A calls:
+
+Subroutine at $B14A calls:
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $FF9F calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $B234 calls:
+	$2080
+
+Subroutine at $B548 calls:
+	$6162
+	$2071
+	$9172
+
+Subroutine at $B24C calls:
+	$4020
+
+Subroutine at $B14C calls:
+
+Subroutine at $B002 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B24C calls:
+	$4020
+
+Subroutine at $B84C calls:
+
+Subroutine at $B202 calls:
+	$0020
+	$2080
+
+Subroutine at $B038 calls:
+
+Subroutine at $B120 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B120 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B038 calls:
+
+Subroutine at $9FA0 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+
+Subroutine at $F930 calls:
+
+Subroutine at $B156 calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $DFAC calls:
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $82AC calls:
+
+Subroutine at $BC80 calls:
+	$6262
+	$2E4D
+	$2E4D
+	$62A0
+	$A081
+
+Subroutine at $9580 calls:
+	$2597
+	$2597
+	$1297
+	$E395
+	$1297
+	$1297
+	$1297
+	$0898
+	$1297
+	$1297
+	$1297
+	$1297
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $82AA calls:
+
+Subroutine at $9B81 calls:
+	$FE9B
+	$FE9B
+	$D09B
+
+Subroutine at $82AC calls:
+
+Subroutine at $B281 calls:
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+
+Subroutine at $AE87 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $CE8B calls:
+	$8020
+	$A020
+	$C020
+	$E020
+	$7677
+	$2076
+	$7677
+
+Subroutine at $9287 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $D981 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $C887 calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $AE89 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AB88 calls:
+
+Subroutine at $82AC calls:
+
+Subroutine at $AE89 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AB88 calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $8D82 calls:
+	$FF08
+	$10BD
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $AE84 calls:
+	$C020
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D084 calls:
+
+Subroutine at $EE84 calls:
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $9386 calls:
+	$0800
+	$08FF
+
+Subroutine at $9386 calls:
+	$0800
+	$08FF
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $DC87 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $FC87 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $ED88 calls:
+	$B84C
+	$4CB4
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $ED88 calls:
+	$B84C
+	$4CB4
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8B94 calls:
+
+Subroutine at $AF9C calls:
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D789 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $8B94 calls:
+
+Subroutine at $8B94 calls:
+
+Subroutine at $938A calls:
+	$0800
+	$08FF
+
+Subroutine at $8D31 calls:
+	$FF08
+	$10BD
+
+Subroutine at $8F55 calls:
+	$FF08
+	$10BD
+
+Subroutine at $FF08 calls:
+	$10FB
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $D039 calls:
+	$7677
+	$2076
+	$7677
+
+Subroutine at $D03E calls:
+	$2076
+	$7677
+
+Subroutine at $E05D calls:
+
+Subroutine at $F07D calls:
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $8C95 calls:
+	$8F55
+	$0000
+	$0808
+	$0008
+	$08FF
+	$FF08
+	$10BD
+
+Subroutine at $E395 calls:
+	$87E2
+	$B5E0
+
+Subroutine at $E620 calls:
+	$71E6
+
+Subroutine at $C8CA calls:
+	$6262
+	$2072
+	$F348
+	$0020
+	$2020
+	$4020
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+	$BEBF
+	$20AE
+	$AEAF
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $BD97 calls:
+	$8272
+
+Subroutine at $BD97 calls:
+	$8272
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $EA98 calls:
+	$001E
+	$1B18
+
+Subroutine at $E698 calls:
+	$47E2
+
+Subroutine at $EB98 calls:
+	$001E
+	$1B18
+
+Subroutine at $8B94 calls:
+
+Subroutine at $AF9C calls:
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $D29A calls:
+	$4020
+	$6020
+	$8020
+	$A020
+	$C020
+	$E020
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FE9B calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $D09B calls:
+
+Subroutine at $EEA0 calls:
+	$389F
+	$3820
+	$9F0D
+	$4CB2
+	$B14A
+	$4A46
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $9DAB calls:
+
+Subroutine at $9DAB calls:
+
+Subroutine at $9A9D calls:
+	$D29A
+
+Subroutine at $E89D calls:
+	$7EE8
+	$66E7
+	$D0E5
+	$4DE8
+	$DCE9
+	$B2E9
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$3DE9
+	$4DE8
+	$A3E9
+	$13E9
+	$03EA
+	$EBE9
+	$A3E9
+
+Subroutine at $E89D calls:
+	$7EE8
+	$66E7
+	$D0E5
+	$4DE8
+	$DCE9
+	$B2E9
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$7EE8
+	$41EA
+	$3DE9
+	$4DE8
+	$A3E9
+	$13E9
+	$03EA
+	$EBE9
+	$A3E9
+
+Subroutine at $9E9D calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$079E
+	$FDA7
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$27A5
+	$2FAA
+
+Subroutine at $9DAB calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $A49E calls:
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $85A0 calls:
+	$278C
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FAA0 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $92A1 calls:
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $C1A1 calls:
+	$713B
+
+Subroutine at $E0A1 calls:
+
+Subroutine at $92A1 calls:
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $C1A1 calls:
+	$713B
+
+Subroutine at $E0A1 calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $8D06 calls:
+	$0000
+	$0808
+	$0008
+	$08FF
+	$FF08
+	$10BD
+
+Subroutine at $A96D calls:
+
+Subroutine at $F29F calls:
+	$4256
+	$4202
+	$4202
+	$3E50
+	$3E48
+	$4256
+	$4202
+	$42B1
+	$4202
+	$5056
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $EFA3 calls:
+	$4CB2
+	$B14A
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $C4A3 calls:
+
+Subroutine at $B1A4 calls:
+	$0020
+	$2080
+
+Subroutine at $82AC calls:
+
+Subroutine at $B1A9 calls:
+	$0020
+	$2080
+
+Subroutine at $82AC calls:
+
+Subroutine at $83A5 calls:
+	$278C
+	$278C
+	$2FAA
+	$0B83
+	$A3AC
+	$03E0
+	$52AA
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $BCA6 calls:
+	$62A0
+	$A081
+
+Subroutine at $90A6 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $AEA6 calls:
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEA6 calls:
+	$E020
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $F001 calls:
+	$4CB2
+	$B14A
+	$4A02
+	$B146
+	$4A46
+	$6CB2
+	$FF9F
+	$B146
+	$B146
+	$6C00
+	$02FF
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $98AA calls:
+	$6999
+	$E698
+	$EB98
+
+Subroutine at $FDA7 calls:
+	$A3AC
+	$B7AC
+	$CBAC
+	$DFAC
+	$0080
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8AAA calls:
+
+Subroutine at $F2AA calls:
+	$4256
+	$4202
+	$4202
+	$3E50
+	$3E48
+	$4256
+	$4202
+	$42B1
+	$4202
+	$5056
+
+Subroutine at $CAD0 calls:
+	$20AE
+	$AEAF
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $8BAB calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $FFFF calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $9081 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $9073 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $82A0 calls:
+
+Subroutine at $8162 calls:
+	$7687
+	$B281
+	$0A8A
+	$AE87
+	$CE8B
+
+Subroutine at $9172 calls:
+	$D039
+	$D03E
+	$2320
+	$38E0
+	$E05D
+	$30E0
+	$38E8
+	$2320
+	$F07D
+	$00F8
+	$08F8
+	$10F8
+	$18F8
+	$3800
+	$0000
+	$1000
+	$1800
+	$2000
+	$3000
+	$38FF
+	$0800
+	$08FF
+
+Subroutine at $8282 calls:
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $82A0 calls:
+
+Subroutine at $8091 calls:
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $A083 calls:
+	$2122
+	$FAA0
+
+Subroutine at $A081 calls:
+	$0CA0
+
+Subroutine at $8272 calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8290 calls:
+	$8D82
+
+Subroutine at $AAAA calls:
+	$CAD0
+
+Subroutine at $8772 calls:
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $813B calls:
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $873D calls:
+	$EB98
+	$6999
+	$47AB
+	$EB98
+	$2FAA
+	$DC87
+	$079E
+
+Subroutine at $8262 calls:
+	$B7AC
+	$CBAC
+	$98AA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $E020 calls:
+
+Subroutine at $8382 calls:
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8390 calls:
+	$278C
+	$278C
+	$2FAA
+	$0B83
+	$A3AC
+	$03E0
+	$52AA
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $8081 calls:
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $8181 calls:
+
+Subroutine at $8272 calls:
+	$2FAA
+	$5FAA
+	$2FAA
+	$6AAC
+	$2FAA
+	$8D82
+
+Subroutine at $F348 calls:
+	$B234
+	$424C
+	$42B5
+	$424C
+	$424C
+	$B548
+	$483E
+	$424C
+	$02B2
+	$4C4C
+	$B24C
+	$B14C
+	$B002
+	$5052
+	$B24C
+	$B84C
+	$4CBB
+	$B202
+	$4A48
+	$50B8
+	$464A
+	$4CB1
+	$4640
+	$B038
+	$B120
+	$B120
+	$02B1
+	$38FF
+	$B038
+	$9FA0
+	$F930
+	$B156
+	$5456
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $BEBF calls:
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $AEAF calls:
+	$FFFF
+	$FFFF
+	$20FF
+	$FFFF
+
+Subroutine at $9697 calls:
+	$A000
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $8020 calls:
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $A020 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$0CA0
+
+Subroutine at $C020 calls:
+	$E020
+	$6D6E
+	$773B
+	$2087
+
+Subroutine at $E020 calls:
+
+Subroutine at $D8E1 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $8EE0 calls:
+	$FF08
+	$10BD
+
+Subroutine at $E200 calls:
+	$4BE0
+
+Subroutine at $94E1 calls:
+
+Subroutine at $B9E1 calls:
+	$2082
+
+Subroutine at $9CE1 calls:
+
+Subroutine at $ACE1 calls:
+
+Subroutine at $83E5 calls:
+	$78AA
+	$B7AC
+	$CBAC
+	$98AA
+	$98AA
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$2884
+	$AE84
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $D3E2 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $E9E2 calls:
+	$EBE9
+	$A3E9
+
+Subroutine at $D7E2 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $ACE4 calls:
+
+Subroutine at $A1E3 calls:
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $B5E0 calls:
+	$6061
+
+Subroutine at $87E2 calls:
+	$47AB
+	$FC87
+	$47AB
+	$2FAA
+
+Subroutine at $D7E6 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $FFE7 calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $F8E8 calls:
+	$5456
+
+Subroutine at $D0E5 calls:
+	$6D6E
+	$7677
+	$2076
+	$7677
+
+Subroutine at $DCE9 calls:
+	$0003
+	$0001
+	$16E2
+	$44E2
+	$D8E1
+
+Subroutine at $B2E9 calls:
+	$C020
+	$E020
+
+Subroutine at $A3E9 calls:
+
+Subroutine at $EBE9 calls:
+	$1B18
+
+Subroutine at $A3E9 calls:
+
+Subroutine at $B254 calls:
+	$4020
+
+Subroutine at $B84C calls:
+
+Subroutine at $9F0D calls:
+	$FDA7
+	$629F
+	$FDA7
+	$FDA7
+	$27A5
+	$2FAA
+
+Subroutine at $B14A calls:
+
+Subroutine at $B14A calls:
+
+Subroutine at $B14A calls:
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $FF9F calls:
+	$5A80
+	$4B80
+	$5EAB
+	$47AB
+	$519D
+	$82AC
+	$BC80
+	$9580
+	$06E0
+	$03E0
+	$52AA
+	$78AA
+	$82AA
+	$82AA
+	$82AA
+	$82AA
+	$6AAC
+	$6BAA
+	$2FAA
+	$5FAA
+	$2FAA
+	$6181
+	$2FAA
+	$3881
+	$9B81
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $B146 calls:
+	$FFFF
+
+Subroutine at $B234 calls:
+	$2080
+
+Subroutine at $B548 calls:
+	$6162
+	$2071
+	$9172
+
+Subroutine at $B24C calls:
+	$4020
+
+Subroutine at $B14C calls:
+
+Subroutine at $B002 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B24C calls:
+	$4020
+
+Subroutine at $B84C calls:
+
+Subroutine at $B202 calls:
+	$0020
+	$2080
+
+Subroutine at $B038 calls:
+
+Subroutine at $B120 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B120 calls:
+	$20FF
+	$FFFF
+
+Subroutine at $B038 calls:
+
+Subroutine at $9FA0 calls:
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+	$1297
+
+Subroutine at $F930 calls:
+
+Subroutine at $B156 calls:
+
+Subroutine at $A3AC calls:
+	$45AA
+	$6AAC
+	$278C
+	$2FAA
+	$C4A3
+
+Subroutine at $B7AC calls:
+
+Subroutine at $CBAC calls:
+	$AEAF
+	$20AE
+	$AEAF
+
+Subroutine at $DFAC calls:
+	$16E2
+	$44E2
+	$D8E1
+
