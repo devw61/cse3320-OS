@@ -1,0 +1,6 @@
+tests/*
+lib/*.so
+
+*.DS_Store
+
+*.dSYM
